@@ -1,0 +1,21 @@
+# Ignore Virtual Environment
+venv/
+
+# Ignore heavy files
+*.pyd
+*.pkg
+*.exe
+*.dll
+*.csv
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Ignore build/dist folders
+build/
+dist/
+
+
